@@ -1,0 +1,37 @@
+---
+title: "What Can I Tutor?"
+description: "A (non-exhaustive) list of topics I am offering tutoring in"
+author: "Connie Okasaki"
+date: "2022-07-20"
+categories: [news]
+---
+
+### Subjects
++ Math
+  + Calculus
+  + Introductory Statistics
+  + Linear Algebra
+  + Ordinary and Partial Differential Equations
+  + Advanced Statistical Modeling
+  + Spatial Statistics
++ Computer Science
+  + Introductory Programming
+  + Python
+  + R
++ Physics
+  + Introductory Mechanics
+  + Introductory Electricity and Magnetism
+  + Introductory Special Relativity
+  + Introductory Quantum Mechanics
++ Biology
+  + Ecology and Ecological Modeling
++ Standardized Tests
+  + SAT
+  + GRE
+  + AP Calculus
+  + AP Statistics
+  + AP Physics
+
+I am also willing to tutor high school level subjects on a case-by-case basis for motivated students. If you would like tutoring for a specific subject that is not listed, or if you are unsure if it falls under one of these categories, please contact me at okasaki-tutoring@gmail.com and I would be happy to clarify.
+
+![](thumbnail.jpg)

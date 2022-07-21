@@ -1,5 +1,5 @@
 ---
-title: "myblog"
+title: "Okasaki Tutoring"
 listing:
   contents: posts
   sort: "date desc"
