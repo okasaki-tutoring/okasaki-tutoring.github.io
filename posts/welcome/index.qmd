@@ -1,12 +1,17 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-07-18"
+title: "Welcome!"
+description: "A brief introduction to my tutoring service"
+author: "Connie Okasaki"
+date: "2022-07-19"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Welcome! As I am finishing my PhD I am beginning to work on getting this business off the ground. Because of that, I am offering reduced rates in exchange for testimonials and reviews. At this early stage of my business, I am charging a base rate of just $50/hour, with limited slots available for sliding scale. At this rate, students are expected to submit a testimonial after their first and fifth appointments, for use on this website. If you are interested in my services, please contact me at okasaki-tutoring@gmail.com
+
+I am available to tutor math, science, and standardized tests. More detailed information on my subject expertise can be found in this [post](../expertise/index.qmd). 
+
+A little about me. My background is in math, statistics, physics, and ecology. I am a PhD candidate in Quantitative Ecology and Resource Management and an MS student in Statistics at the University of Washington. I have instructed numerous math and statistics course in recent years, both in person and online. Throughout these teaching experiences, what I consistently found most rewarding was the one-on-one or small group tutoring that I did during office hours. Coming out of those experiences, I have decided to start a small tutoring business with which I can continue just those sorts of rewarding teaching moments.
+
+I am currently available only for limited hours while I complete and defend my dissertation. 
 
 ![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

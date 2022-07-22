@@ -1,5 +1,5 @@
 ---
-title: "What Can I Tutor?"
+title: "What Can You Tutor?"
 description: "A (non-exhaustive) list of topics I am offering tutoring in"
 author: "Connie Okasaki"
 date: "2022-07-20"
